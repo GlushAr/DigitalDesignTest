@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40275f70-9416-478d-a97c-c91557ea067a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="40275f70-9416-478d-a97c-c91557ea067a" name="Default Changelist" comment="Adding string parser">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parser/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parser/StringParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,6 +37,14 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="DigitalDesignTest" />
+      <option name="PROGRAM_PARAMETERS" value="x2[w3[z]w]x" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -47,8 +65,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615834239496</updated>
-      <workItem from="1615834240711" duration="99000" />
+      <workItem from="1615834240711" duration="15366000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1615834484022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615834484022</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,5 +90,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="Adding string parser" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding string parser" />
   </component>
 </project>
